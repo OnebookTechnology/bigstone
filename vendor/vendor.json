@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "Szqzn1V9y2XtqlLM8r05xMSCljs=",
+			"path": "github.com/cxt90730/LevelLogger-go",
+			"revision": "f2685110ee97b4d4810ad1a64ad6eef0f02da500",
+			"revisionTime": "2017-11-03T08:01:46Z"
+		}
+	],
+	"rootPath": "github.com/OnebookTechnology/BigStone"
+}
